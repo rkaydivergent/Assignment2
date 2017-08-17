@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="rice">rice</string>
+    <string name="cheese">cheese</string>
+    <string name="olive">olive</string>
+    <string name="butter">butter</string>
+    <string name="soup">soup</string>
+    <string name="ketchup">ketchup</string>
+    <string name="select_items">Select items</string>
+    <string name="second_activity_name">Second Activity</string>
+</resources>
